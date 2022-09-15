@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 919.44 627.78">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: Apple-Chancery, 'Apple Chancery';
+        font-size: 178px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="-179.17" y="179.17" width="627.78" height="269.44" transform="translate(-179.17 448.61) rotate(-90)"/>
+  <text class="cls-3" transform="translate(191.46 611.77) rotate(-90)"><tspan class="cls-1" x="0" y="0">V</tspan><tspan x="116.38" y="0">atican</tspan></text>
+  <text/>
+</svg>
